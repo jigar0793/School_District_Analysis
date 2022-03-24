@@ -26,13 +26,13 @@ PyCitySchools.ipynb, schools_complete.csv & students_complete.csv
 
 #### Original Analysis
 
-Pic 1
-
 The testing data of 461 9th graders at Thomas High School was turned into null data, which recalculated the percentages of passing math, passing reading, and the overall passing. 
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/94248676/159872500-d7992a0d-b365-4147-b5de-ddbef71efbc8.png">
 
 #### Adjusted Analysis
 
-pic 2
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/94248676/159872546-6f28654d-09c4-44ee-827f-f70bf6f3d288.png">
 
 Removing the 9th grade students from the data set had a huge impact by dropping from 91% to 65% for the overall passing rate. The change of adding Nan to all grade 9 and Thomas High School math and reading scores did not have a large impact on the district analysis as:
 
@@ -43,13 +43,13 @@ Removing the 9th grade students from the data set had a huge impact by dropping 
 
 #### Original Analysis
 
-pic 3
-
 In the original analysis, Thomas High School ranked 2nd in the district raising red flags with the school board.
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/94248676/159872593-556f7888-afc3-406d-bc00-e364f062b0d7.png">
 
 #### Adjusted Analysis
 
-pic 4
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/94248676/159872644-3e0d8dae-a52f-43ba-9b14-cca6f59d659b.png">
 
 After adjusting the 9th grade data, Thomas High School ranked at 13th position from 2nd rank.
 
@@ -58,20 +58,20 @@ After adjusting the 9th grade data, Thomas High School ranked at 13th position f
 #### Original Analysis:
 
 ##### Average Math Scores
-pic 5
+<img width="305" alt="image" src="https://user-images.githubusercontent.com/94248676/159872707-85c7a2e8-8dd0-4ebf-987c-099b498c3b65.png">
 
 ##### Average Reading Scores
-pic 6
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/94248676/159872767-bdc2b8f5-64e3-4d6f-bff6-f293a1092c77.png">
 
 In the original analysis, Thomas High School had 83.6 math average and 83.7 reading average for the 9th grade tests.
 
 #### Adjusted Analysis:
 
 ##### Average Math Scores
-pic 7
+<img width="305" alt="image" src="https://user-images.githubusercontent.com/94248676/159872830-13841a36-0a66-44e7-982a-31373a7fd97b.png">
 
 ##### Average Reading Scores
-pic 8
+<img width="307" alt="image" src="https://user-images.githubusercontent.com/94248676/159872871-d33d5a0a-8f8d-49d5-8112-6e9be545288b.png">
 
 Now the scores have been replaced with null values and shows up in Python programming as NaN in the following charts.
 
@@ -79,13 +79,13 @@ Now the scores have been replaced with null values and shows up in Python progra
 
 #### Original Analysis:
 
-pic 9
-
 Thomas High School falls in the $630-$644/student spending range. However, the hundredths place was needed to see the nominal changes.
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/94248676/159872964-b079c80d-acad-4f5b-96c7-02e8ee5e4b78.png">
 
 #### Adjusted Analysis:
 
-pic10
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/94248676/159872997-dc5e57f2-a75e-430d-a1c3-44aa42e7a49b.png">
 
 By changing the 9th grade scores, there was very little spending impact.
 
@@ -95,11 +95,11 @@ By changing the 9th grade scores, there was very little spending impact.
 
 Thomas High School is defined as a medium sized school. The hundredths place was needed to see the nominal changes.
 
-pic11
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/94248676/159873040-2b1c954e-0e94-4ca5-9215-7a06e5b7ef99.png">
 
 #### Adjusted Analysis:
 
-pic12
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/94248676/159873079-0acbdf42-a785-4f65-a6dc-15d1b1375d17.png">
 
 There was very little impact by campus size due to changing the 9th grade scores.
 
@@ -109,11 +109,11 @@ Thomas High School is a charter school type. The hundredths place was needed to 
 
 #### Original Analysis
 
-pic13
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/94248676/159873129-04249eeb-e8b0-453b-9a4d-0e99c035e181.png">
 
 #### Adjusted Analysis
 
-pic 14
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/94248676/159873165-bc456aad-0882-4c66-9ce0-fc1d534febb2.png">
 
 There was very little impact by school type by changing the 9th grade scores.
 
